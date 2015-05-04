@@ -17,6 +17,9 @@ public class JavaApplication31 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola");
+        // esto es un cambio 
+        // y se muestra en verde
+        
     }
     
 }
